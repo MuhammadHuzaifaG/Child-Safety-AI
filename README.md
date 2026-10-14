@@ -27,6 +27,8 @@ Child-Safety-AI addresses this gap by providing real-time psycholinguistic detec
 3. **Synthetic Media Exploitation:** Generative AI allows malicious actors to easily produce deepfake visuals and audio designed to scam, deceive, or harass minors.
 4. **Excessive Surveillance vs. Safety:** Caregivers lack tools to monitor child safety metrics without constantly reading private messages.
 
+<img width="879" height="636" alt="11" src="https://github.com/MuhammadHuzaifaG/Child-Safety-AI/blob/main/screenshots/ch1.PNG" />
+
 ### Solution
 
 Child-Safety-AI combines asynchronous FastAPI web architecture, SQLAlchemy persistent storage, and Google Gemini API integration into four core modular services:
@@ -42,6 +44,8 @@ Child-Safety-AI combines asynchronous FastAPI web architecture, SQLAlchemy persi
 * **Parents and Guardians:** Gain visibility into overall safety metrics and risk trends without reading private personal messages.
 * **Educators and School Administrators:** Access exportable activity logs (CSV/Print) and analytics to evaluate digital wellness across student communities.
 
+<img width="879" height="636" alt="11" src="https://github.com/MuhammadHuzaifaG/Child-Safety-AI/blob/main/screenshots/ch2.PNG" />
+
 ### Expected Impact
 
 * **Emotional Well-being:** Reduces exposure to toxic communication and parasocial manipulation.
@@ -49,6 +53,8 @@ Child-Safety-AI combines asynchronous FastAPI web architecture, SQLAlchemy persi
 * **Privacy-Preserving Safety:** Establishes a balanced safety model that protects minors while respecting their personal privacy.
 
 ---
+
+<img width="879" height="636" alt="11" src="https://github.com/MuhammadHuzaifaG/Child-Safety-AI/blob/main/screenshots/ch3.PNG" />
 
 ## Tech Stack
 
@@ -79,6 +85,8 @@ Child-Safety-AI combines asynchronous FastAPI web architecture, SQLAlchemy persi
 * **Fail-Safe Heuristic Fallbacks:** Advanced NLP fallback engine ensures continuous operational stability during network disruptions or API key misconfigurations.
 
 ---
+
+<img width="879" height="636" alt="11" src="https://github.com/MuhammadHuzaifaG/Child-Safety-AI/blob/main/screenshots/ch4.PNG" />
 
 ## Project Structure
 
